@@ -395,6 +395,9 @@ section:nth-of-type(2n) .loading .loader {
 .viewgoogle, .book .display_book_export {
   float: right;
 }
+.viewgoogle {
+  font-size: 0.75em;
+}
 .book .book_export {
   float: right;
   padding: 1px 7px;
